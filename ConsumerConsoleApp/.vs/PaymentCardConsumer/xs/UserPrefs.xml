@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{290E8D98-33C3-448C-BCD9-A4E60FB42CDB}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Extreme SSD/NeoPricCode/Neopric/MicrroservicesTutorials/APIServerCommunication/PaymentCardConsumer/RabbitMQ/RabbitMQConsumer.cs" relfile="RabbitMQ/RabbitMQConsumer.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WeatherForcastConsumerConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RabbitMQ/RabbitMQConsumer.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="25" />
+      <File FileName="RabbitMQ/CardPayment.cs" Line="1" Column="1" />
+      <File FileName="RabbitMQ/RabbitMQConsumer.cs" Line="49" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaymentCardConsumer" expanded="True">
+            <Node name="PaymentCardConsumer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

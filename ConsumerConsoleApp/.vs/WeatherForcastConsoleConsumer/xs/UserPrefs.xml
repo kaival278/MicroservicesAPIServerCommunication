@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{290E8D98-33C3-448C-BCD9-A4E60FB42CDB}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Extreme SSD/NeoPricCode/Neopric/MicrroservicesTutorials/APIServerCommunication/PaymentCardConsumer/RestAPICall.cs" relfile="RestAPICall.cs" line="35" column="1" />
+      <Breakpoint file="/Volumes/Extreme SSD/NeoPricCode/Neopric/MicrroservicesTutorials/APIServerCommunication/PaymentCardConsumer/RestAPICall.cs" relfile="RestAPICall.cs" line="20" column="1" />
+      <Breakpoint file="/Volumes/Extreme SSD/NeoPricCode/Neopric/MicrroservicesTutorials/APIServerCommunication/PaymentCardConsumer/RabbitMQ/RabbitMQConsumer.cs" relfile="RabbitMQ/RabbitMQConsumer.cs" line="62" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WeatherForcastConsumerConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestAPICall.cs">
+    <Files>
+      <File FileName="Program.cs" Line="8" Column="6" />
+      <File FileName="RabbitMQ/RabbitMQConsumer.cs" Line="81" Column="14" />
+      <File FileName="RestAPICall.cs" Line="22" Column="46" />
+      <File FileName="Models/WeatherForCast.cs" Line="16" Column="1" />
+      <File FileName="Models/WeatherPostModel.cs" Line="2" Column="30" />
+      <File FileName="RabbitMQ/ObjectSerialize.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherForcastConsoleConsumer" expanded="True" selected="True">
+            <Node name="WeatherForcastConsumerConsoleApp" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="RabbitMQ" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

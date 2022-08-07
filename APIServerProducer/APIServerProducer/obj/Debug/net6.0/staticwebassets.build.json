@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mo4TL+XT7TVyFOfMvpuHQp9jHLAhk0szi1gRtsxVjoA=",
+  "Source": "APIServerProducer",
+  "BasePath": "_content/APIServerProducer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

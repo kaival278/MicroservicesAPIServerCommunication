@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "47E1B4PjinOmrI/RBbrmMAayQmNRz7PG/iKIfbGMXqY=",
+  "Source": "APIServerConsumer",
+  "BasePath": "_content/APIServerConsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
